@@ -1,0 +1,1466 @@
+{
+  "10.000.000": {
+    "genres": ["Puzzler", "3-Gewinnt"],
+    "platforms": ["Android"],
+    "tags": ["Side-Scroller", "Echtzeit", "Pixelart"],
+    "controls": ["Touch"]
+  },
+  "A new Beginning: The final cut": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Scifi"],
+    "controls": ["Maus"]
+  },
+  "A walk in the dark": {
+    "genres": ["Jump & Run"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Alan Wake": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["Xbox360"],
+    "tags": ["Gegenwart", "Third-Person", "Horror"],
+    "controls": ["Gamepad"]
+  },
+  "Alan Wake's American Nightmare": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Gegenwart", "Third-Person", "Horror"],
+    "controls": ["Gamepad"]
+  },
+  "Aliens - Colonial Marines": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Horror", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Aliens vs. Predator 2": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Horror", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Aliens vs. Predator 2: Primal Hunt": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Horror", "Addon", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Amnesia - The dark descent": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Anno 2205": {
+    "genres": ["Strategie", "Aufbau"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Echtzeit"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Anomaly: Warzone Earth": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Echtzeit"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Assassins Creed IV - Black Flag": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Kolonialzeit", "Third-Person", "Openworld"],
+    "controls": ["Gamepad"]
+  },
+  "Axiom Verge": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Scifi"],
+    "controls": ["Gamepad"]
+  },
+  "Batman: Arkham Asylum": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Comic", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "Battlefield 1942": {
+    "genres": ["Shooter", "Multiplayer"],
+    "platforms": ["PC"],
+    "tags": ["Weltkrieg", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Battlefield 3": {
+    "genres": ["Shooter", "Multiplayer"],
+    "platforms": ["PC"],
+    "tags": ["Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Battlefield 4": {
+    "genres": ["Shooter", "Multiplayer"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Bernd das Brot - Die Unmöglichen": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Szenerie", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Betrayer": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Kolonialzeit", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Beyond Good and Evil": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Fantasy", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "Bioshock": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Bioshock 2": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Bioshock Infinite": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Black Sails - Das Geisterschiff": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Szenerie"],
+    "controls": ["Maus"]
+  },
+  "Blood and Bacon": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Ego", "Humor"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Borderlands": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Braveland": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["Android"],
+    "tags": ["Szenerie", "Mittelalter", "Rundenbasiert"],
+    "controls": ["Touch"]
+  },
+  "Bridge Constructor": {
+    "genres": ["Simulation", "Puzzler"],
+    "platforms": ["Android"],
+    "tags": ["Szenerie"],
+    "controls": ["Touch"]
+  },
+  "Bridge Constructor Playgrounds": {
+    "genres": ["Simulation", "Puzzler"],
+    "platforms": ["Android"],
+    "tags": ["Szenerie"],
+    "controls": ["Touch"]
+  },
+  "Broforce": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Gore", "Comic", "Humor"],
+    "controls": ["Gamepad"]
+  },
+  "Brütal Legends": {
+    "genres": ["Adventure", "Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Fantasy", "Humor", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Castle in the Darkness": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Castlevania: Aria of Sorrow": {
+    "genres": ["Metroidvania"],
+    "platforms": ["Gameboy-Advance"],
+    "tags": ["Side-Scroller", "Fantasy", "Horror"],
+    "controls": ["Gamepad"]
+  },
+  "Castlevania: Lords of Shadow - Mirror of Fate HD": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Fantasy", "Horror"],
+    "controls": ["Gamepad"]
+  },
+  "Chaos on Deponia": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Szenerie", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Cold Fear": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Gore", "Gegenwart", "Third-Person"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Crysis": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Crysis 2": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Crysis 3": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Dantes Inferno": {
+    "genres": ["Adventure"],
+    "platforms": ["Xbox360"],
+    "tags": ["Horror", "Gore", "Third-Person", "Comic"],
+    "controls": ["Gamepad"]
+  },
+  "Dark Messiah Might and Magic": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Dark Souls - Prepare to die edition": {
+    "genres": ["Soulslike"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "Dark Souls II": {
+    "genres": ["Soulslike"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "Dark Souls II - Crown of the ivory King": {
+    "genres": ["Soulslike"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Third-Person", "DLC"],
+    "controls": ["Gamepad"]
+  },
+  "Dark Souls III": {
+    "genres": ["Soulslike"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "Darksiders": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "Darksiders II": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "Darksiders III": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "Das schwarze Auge - Satinavs Ketten": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Szenerie"],
+    "controls": ["Maus"]
+  },
+  "Das schwarze Auge - Memoria": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Szenerie"],
+    "controls": ["Maus"]
+  },
+  "Dead Core": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Dead Island": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Horror", "Gegenwart", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Dead Space": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Horror", "Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Dead Space 2": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Horror", "Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Deadlight": {
+    "genres": ["Adventure", "Jump & Run"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Horror", "Gegenwart"],
+    "controls": ["Gamepad"]
+  },
+  "Deponia": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Szenerie", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Deponia Doomsday": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Szenerie", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Deus Ex: Human Revolution": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "Cyberpunk"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "DEX": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Scifi", "Cyberpunk"],
+    "controls": ["Gamepad"]
+  },
+  "Diablo": {
+    "genres": ["Hack & Slay"],
+    "platforms": ["PC"],
+    "tags": ["Isometrisch", "Fantasy"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Diablo II": {
+    "genres": ["Hack & Slay"],
+    "platforms": ["PC"],
+    "tags": ["Isometrisch", "Fantasy"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Diablo II - Lord of Destruction": {
+    "genres": ["Hack & Slay"],
+    "platforms": ["PC"],
+    "tags": ["Isometrisch", "Fantasy", "Addon"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Diablo III": {
+    "genres": ["Hack & Slay"],
+    "platforms": ["PC"],
+    "tags": ["Isometrisch", "Fantasy"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Diablo III - Reaper of Souls": {
+    "genres": ["Hack & Slay"],
+    "platforms": ["PC"],
+    "tags": ["Isometrisch", "Fantasy", "Addon"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Dishonored": {
+    "genres": ["Rollenspiel", "Stealth"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Steampunk"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Doctor Who: Eternity Clock": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Scifi"],
+    "controls": ["Gamepad"]
+  },
+  "Doom": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Doom (2016)": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Doom II": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Doom III - BFG Edition": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Doom III - Auferstehung des Bösen": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Ego", "Scifi", "Addon"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Duke Nukem Forever": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Edna & Harvey: Harveys neue Augen": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Gegenwart", "Szenerie"],
+    "controls": ["Maus"]
+  },
+  "Elex": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Scifi", "Openworld"],
+    "controls": ["Gamepad"]
+  },
+  "Evoland": {
+    "genres": ["JRPG", "Adventure", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Humor", "Side-Scroller", "Isometrisch"],
+    "controls": ["Gamepad"]
+  },
+  "Expendabros": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Gore", "Comic", "Humor"],
+    "controls": ["Gamepad"]
+  },
+  "F.E.A.R. - First Encounter Assault Recon": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Gore", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "F.E.A.R. 2 - Projekt Origin": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Gore", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Fable - The lost chapters": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Fantasy"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Fallout 3": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Third-Person", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Fallout 3: New Vegas": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Third-Person", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "FarCry": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "FarCry 3": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Gegenwart", "Ego", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "FarCry 3 - Blood Dragon": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Cyberpunk", "Ego", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "FarCry 4": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Gegenwart", "Ego", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Final Fantasy IX": {
+    "genres": ["JRPG"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Szenerie", "Isometrisch"],
+    "controls": ["Gamepad"]
+  },
+  "Fire": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Steinzeit", "Szenerie", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Flight of the Amazon Queen": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Humor", "Szenerie"],
+    "controls": []
+  },
+  "Gauntlet": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Isometrisch", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Ghostbusters - The Video Game": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Gegenwart", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "Goodbye Deponia": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Szenerie", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Gothic": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Mittelalter", "Fantasy", "Third-Person", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Gothic II": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Mittelalter", "Fantasy", "Third-Person", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Gothic II: Nacht des Raben": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Mittelalter", "Fantasy", "Third-Person", "Addon", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Grim Dawn": {
+    "genres": ["Hack & Slay", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Post-Apokalypse", "Isometrisch"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "GTA: Vice City": {
+    "genres": ["Adventure", "Shooter", "Simulation"],
+    "platforms": ["PC"],
+    "tags": ["Humor", "Third-Person", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Half-Life": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Half-Life - Blueshift": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "Addon"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Half-Life - Oppossing force": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "Addon"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Half-Life 2": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Half-Life 2 - Episode One": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Half-Life 2 - Episode Two": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Halo": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Halo 3": {
+    "genres": ["Shooter"],
+    "platforms": ["Xbox360"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Halo: Spartan Assault": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Top-Down", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Hellgate London": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Post-Apokalypse", "Third-Person", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Hollow Knight": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller"],
+    "controls": ["Gamepad"]
+  },
+  "Hotline Miami": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Top-Down", "Gore", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Hotline Miami 2": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Top-Down", "Gore", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "How to Survive": {
+    "genres": ["Rollenspiel", "Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Isometrisch", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Human Fall Flat": {
+    "genres": ["Jump & Run"],
+    "platforms": ["PC"],
+    "tags": ["Humor", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Hype: The Time Quest": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["LEGO", "Third-Person"],
+    "controls": ["Tastatur"]
+  },
+  "Into the breach": {
+    "genres": ["Strategie"],
+    "platforms": ["Switch"],
+    "tags": ["Isometrisch", "Scifi"],
+    "controls": ["Gamepad"]
+  },
+  "Journey of a roach": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Side-Scroller"],
+    "controls": ["Gamepad"]
+  },
+  "Just Cause 2": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Just Cause 3": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Legend of Grimrock": {
+    "genres": ["Dungeoncrawler"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Mittelalter", "Fantasy"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Legend of Grimrock II": {
+    "genres": ["Dungeoncrawler"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Mittelalter", "Fantasy"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "LEGO - Herr der Ringe": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["LEGO", "Third-Person", "Openworld"],
+    "controls": ["Gamepad"]
+  },
+  "Lords of the Fallen": {
+    "genres": ["Soulslike"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Mittelalter", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Lost Horizon": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Gegenwart", "Szenerie"],
+    "controls": ["Maus"]
+  },
+  "Lost Planet 2": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Mafia 2": {
+    "genres": ["Adventure", "Shooter", "Simulation"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Magrunner": {
+    "genres": ["Adventure", "Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Mass Effect": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Max Payne 3": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Third-Person"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Mega Man 2": {
+    "genres": ["Jump & Run"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Scifi"],
+    "controls": ["Gamepad"]
+  },
+  "Metro 2033": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Post-Apokalypse"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Metroid Prime": {
+    "genres": ["Shooter", "Metroidvania"],
+    "platforms": ["Gamecube"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Gamepad"]
+  },
+  "Mirrors Edge": {
+    "genres": ["Jump & Run", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Mittelerde - Schatten von Mordor": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Openworld"],
+    "controls": ["Gamepad"]
+  },
+  "Moirai": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie"],
+    "controls": ["Maus"]
+  },
+  "Monkey Island 3: The Curse of Monkey Island": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Kolonialzeit", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Mutant year Zero - Road to Eden": {
+    "genres": ["Strategie", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Rundenbasiert", "Isometrisch", "Post-Apokalypse"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Never Alone (Kisima Ingitchuna)": {
+    "genres": ["Adventure", "Jump & Run"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller"],
+    "controls": ["Gamepad"]
+  },
+  "Ori and the blind forest": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller"],
+    "controls": ["Gamepad"]
+  },
+  "Outlaws": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Wilder Westen"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Overlord": {
+    "genres": ["Strategie", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Mittelalter", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Paper Mario": {
+    "genres": ["JRPG"],
+    "platforms": ["Gamecube"],
+    "tags": ["Isometrisch", "Humor", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Plants vs. Zombies": {
+    "genres": ["Towerdefense"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Pony Island": {
+    "genres": ["Jump & Run"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Metagame"],
+    "controls": ["Gamepad"]
+  },
+  "Portal": {
+    "genres": ["Adventure", "Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Portal 2": {
+    "genres": ["Adventure", "Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Prey": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "Wilder Westen"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Prey (2017)": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Project Warlord": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Pixelart", "Ego", "Gore"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Prototype": {
+    "genres": ["Adventure", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Third-Person", "Gegenwart", "Scifi", "Openworld"],
+    "controls": ["Gamepad"]
+  },
+  "Reassembly": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Top-Down", "Scifi", "Sandbox"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Resident Evil 3 - Nemesis": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Szenerie", "Gore"],
+    "controls": ["Gamepad"]
+  },
+  "Resident Evil 4": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Third-Person", "Gore"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Resident Evil 5": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Third-Person", "Gore"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Return to Castle Wolfenstein": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Weltkrieg", "Fantasy", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Rise of the Tomb Raider": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Risen": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Mittelalter", "Fantasy", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Risen 2 - Dark Waters": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Mittelalter", "Fantasy", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Rochard": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Scifi"],
+    "controls": ["Gamepad"]
+  },
+  "Rogue Legacy": {
+    "genres": ["Roguelike"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Rune": {
+    "genres": ["Hack & Slay", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Wikinger", "Third-Person"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "S.T.A.L.K.E.R. - Shadow of Chernobyl": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Post-Apokalypse", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Salt and Sanctuary": {
+    "genres": ["Soulslike"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Serious Sam 3: BFE": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gore"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Shadow Complex": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Shadow of the Tomb Raider": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Shadow Tactics - Blades of the Shogun": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Echtzeit", "Top-Down"],
+    "controls": ["Gamepad"]
+  },
+  "Shadow Warrior": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gore"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Shadow Warrior 2": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gore"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Shovel Knight": {
+    "genres": ["Jump & Run", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Silver": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Fantasy", "Mittelalter"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Simon the Sorcerer": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Fantasy", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Simon the Sorcerer II": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Fantasy", "Humor"],
+    "controls": ["Maus"]
+  },
+  "Sniper Elite V2": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Weltkrieg"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Soma": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Horror"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Soul Calibur II": {
+    "genres": ["Beat'em up"],
+    "platforms": ["Gamecube"],
+    "tags": ["Side-Scroller", "2,5D", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "South Park - The fractured buthole": {
+    "genres": ["JRPG"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Humor"],
+    "controls": ["Gamepad"]
+  },
+  "Specops - The Line": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Spelunky": {
+    "genres": ["Jump & Run", "Roguelike"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller"],
+    "controls": ["Gamepad"]
+  },
+  "Spore": {
+    "genres": ["Strategie", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Top-Down"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Star Craft": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Echtzeit", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Star Craft II - Wings of Liberty": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Echtzeit", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Star Craft II - Hearth of the Swarm": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Echtzeit", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Star Craft II - Legacy of the Void": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Echtzeit", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Star Wars - Dark Forces": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Star Wars - Rogue Squadron": {
+    "genres": ["Shooter", "Simulation"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Ego", "Third-Person"],
+    "controls": ["Tastatur"]
+  },
+  "SteamWorld Dig": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Post-Apokalypse"],
+    "controls": ["Gamepad"]
+  },
+  "SteamWorld Dig 2": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Post-Apokalypse"],
+    "controls": ["Gamepad"]
+  },
+  "SteamWorld Heist": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Post-Apokalypse", "Rundenbasiert"],
+    "controls": ["Gamepad"]
+  },
+  "Styx: Master of Shadows": {
+    "genres": ["Adventure", "Rollenspiel", "Stealth"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Fantasy", "Steampunk"],
+    "controls": []
+  },
+  "Subnautica": {
+    "genres": ["Adventure", "Survival"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Super Mario Galaxy": {
+    "genres": ["Jump & Run"],
+    "platforms": ["Wii"],
+    "tags": ["Third-Person", "Fantasy", "Humor"],
+    "controls": ["Gamepad"]
+  },
+  "Super Mario Odyssee": {
+    "genres": ["Jump & Run"],
+    "platforms": ["Wii"],
+    "tags": ["Third-Person", "Fantasy", "Humor"],
+    "controls": ["Gamepad"]
+  },
+  "Super Mario Sunshine": {
+    "genres": ["Jump & Run"],
+    "platforms": ["Wii"],
+    "tags": ["Third-Person", "Fantasy", "Humor"],
+    "controls": ["Gamepad"]
+  },
+  "Superhot": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "VR", "Metagame"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "System Shock 2": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Terraria": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Voxelbasiert", "Side-Scroller", "Fantasy", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Teslagrad": {
+    "genres": ["Metroidvania"],
+    "platforms": ["Switch"],
+    "tags": ["Side-Scroller", "Steampunk"],
+    "controls": ["Gamepad"]
+  },
+  "The Beginner's Guide": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "The Book of unwritten Tales": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Fantasy", "Humor"],
+    "controls": ["Maus"]
+  },
+  "The Book of unwritten Tales 2": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Fantasy", "Humor"],
+    "controls": ["Maus"]
+  },
+  "The Book of unwritten Tales - Die Viehchroniken": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Fantasy", "Humor"],
+    "controls": ["Maus"]
+  },
+  "The Darkness 2": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Horror", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "The Elder Scrolls IV - Oblivion": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Third-Person", "Fantasy", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "The Elder Scrolls V - Skyrim": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Third-Person", "Fantasy", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "The Evil Within": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Gore", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "The Evil Within 2": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Horror", "Gore", "Third-Person"],
+    "controls": ["Gamepad"]
+  },
+  "The Fall": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "2,5D", "Scifi"],
+    "controls": ["Gamepad"]
+  },
+  "The Fall Part 2: Unbound": {
+    "genres": ["Puzzler", "Adventure"],
+    "platforms": ["Switch"],
+    "tags": ["Side-Scroller", "2,5D", "Scifi"],
+    "controls": ["Gamepad"]
+  },
+  "The Fall - Mutant City": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Post-Apokalypse"],
+    "controls": ["Maus"]
+  },
+  "The Forest": {
+    "genres": ["Survival", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gegenwart", "Horror", "Gore", "Crafting", "Coop"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "The Surge": {
+    "genres": ["Soulslike"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Scifi", "Gore"],
+    "controls": ["Gamepad"]
+  },
+  "The Talos Principle": {
+    "genres": ["Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "Metagame"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "The Turing Test": {
+    "genres": ["Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "The Vanishing of Ethan Carter": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Photogrammetrie", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "The Witness": {
+    "genres": ["Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Tiny & Big: Grandpa's Leftovers": {
+    "genres": ["Adventure", "Jump & Run"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Scifi", "Humor"],
+    "controls": ["Gamepad"]
+  },
+  "Titanfall 2": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Titan Souls": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Top-Down", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Tom Clancy's Splinter Cell: Conviction": {
+    "genres": ["Shooter", "Stealth"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Tomb Raider": {
+    "genres": ["Adventure", "Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Tormentum - Dark Sorrow": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Horror", "Fantasy", "Giger"],
+    "controls": ["Maus"]
+  },
+  "Trine": {
+    "genres": ["Puzzler", "Adventure", "Multiplayer"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Fantasy", "Humor"],
+    "controls": ["Gamepad"]
+  },
+  "Trine 2": {
+    "genres": ["Puzzler", "Adventure", "Multiplayer"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Fantasy", "Humor"],
+    "controls": ["Gamepad"]
+  },
+  "Tron 2.0": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Ego"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Turok - Dinosaur Hunter": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Two Worlds": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Fantasy", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Typoman": {
+    "genres": ["Adventure", "Puzzler"],
+    "platforms": ["Switch"],
+    "tags": ["Side-Scroller", "Post-Apokalypse"],
+    "controls": ["Gamepad"]
+  },
+  "Unepic": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Humor", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Unreal Tournament 2004": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gore", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Victor Vran": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Top-Down", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "VVVVV": {
+    "genres": ["Jump & Run"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Side-Scroller", "Pixelart", "Scifi"],
+    "controls": ["Tastatur"]
+  },
+  "Warhammer 40k - Dawn of War": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Echtzeit", "Top-Down", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Watchdogs": {
+    "genres": ["Adventure", "Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Scifi", "Third-Person", "Openworld"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "What remains of Edith Finch": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Photogrammetrie", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Whispered World": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Fantasy"],
+    "controls": ["Maus"]
+  },
+  "Whispered World 2 - Silence": {
+    "genres": ["Point & Click"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Fantasy"],
+    "controls": ["Maus"]
+  },
+  "Wolfenstein - The new Order": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gore", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Wolfenstein - The old Blood": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gore", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Wolfenstein II - The new Colossus": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gore", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "X-COM - Enemy Unknown": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Rundenbasiert", "Scifi", "Top-Down"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "X-COM 2": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Rundenbasiert", "Scifi", "Top-Down"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Zelda - Breath of the wild": {
+    "genres": ["Adventure"],
+    "platforms": ["Switch"],
+    "tags": ["Third-Person", "Fantasy", "Openworld"],
+    "controls": ["Gamepad"]
+  },
+  "Zelda II - Adventure of Link": {
+    "genres": ["Adventure"],
+    "platforms": ["NES"],
+    "tags": ["Side-Scroller", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Zelda - Links awakening": {
+    "genres": ["Adventure"],
+    "platforms": ["Gameboy-Color"],
+    "tags": ["Side-Scroller", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
+  "Zelda - Twillight Princess": {
+    "genres": ["Adventure"],
+    "platforms": ["Gamecube"],
+    "tags": ["Third-Person", "Fantasy", "Openworld"],
+    "controls": ["Gamepad"]
+  },
+  "Zeno Clash": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "Fantasy"],
+    "controls": ["Maus & Tastatur"]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "Strategie": {
+    "type": "Genre",
+    "desc": "- Kontrolle über mehr als eine Entität\n- Verwaltung von Strukturen"
+  },
+  "Shooter": {
+    "type": "Genre",
+    "desc": "- Selbstgeführter Einsatz von Fernkampfwaffen"
+  },
+  "Adventure": {
+    "type": "Genre",
+    "desc": "- Geschichtlicher Rahmen stellt zu lösende Rätsel\n- Lösung mittels gefundener Gegenstände oder Gespräche"
+  },
+  "Rollenspiel": {
+    "type": "Genre",
+    "desc": "- Einfühlung in eine bestimmte oder selbstgewählte Entität\n- Progression durch eigenhändige Verbesserung der Entität"
+  },
+  "Puzzler": {
+    "type": "Genre",
+    "desc": "- Lösung vorgegebener, künstlicher Rätsel"
+  },
+  "Simulation": {
+    "type": "Genre",
+    "desc": "- möglichst detailgetreue Nachahmung einer existierenden Tätigkeit, Sportart oder eines realen Ereignisses"
+  },
+  "Beat'em up": {
+    "type": "Genre",
+    "desc": "- vertritt den Gedanke eines Wettkampfes zwischen 2 Kontrahenten, die sich oft in einem begrenzten Areal gegenübertreten"
+  },
+  "Jump & Run": {
+    "type": "Genre",
+    "desc": "- eine der Hauptmotivationen besteht im geschickten, namensgebenden Springen und Rennen über Hindernisstrecken zum Erreichen eines bestimmten Zieles"
+  },
+  "Multiplayer": {
+    "type": "Genre",
+    "desc": "- das Hauptaugenmerk des Spiels liegt auf dem kompetetiven oder kooperativen Mehrspieler, bei dem viele Spieler lokal oder online miteinander spielen"
+  },
+  "Stealth": {
+    "type": "Genre",
+    "desc": "- im Fokus liegt das Schleichen und unerkannte durchschreiten verschiedener Gebiete\n- oft in Verbindung mit Assassinen und Meuchelmördern oder Dieben"
+  },
+  "Metroidvania": {
+    "type": "Genre",
+    "desc": "- angelehnt an die Klassiker Metroid und Castlevania werden durch den Erhalt neuer Gegenstände/Fähigkeiten neue Wege und Möglichkeiten der Welt offenbart"
+  },
+  "Soulslike": {
+    "type": "Genre",
+    "desc": "- angelehnt an Spiele wie Dark Souls ist der Erfolg im Spiel sehr stark abhängig von den Fähigkeiten des Spielers, weniger durch den Fortschritt der Entität\n- trotz eines sehr hohen Schwierigkeitsgrades bleiben die Herausforderungen dabei fair und bringen den Spieler bestenfalls nie in ausweglose Situationen"
+  },
+  "Survival": {
+    "type": "Genre",
+    "desc": "- Simulation von Bedürfnissen, die den Zustand der Entität beeinflussen"
+  },
+  "3-Gewinnt": {
+    "type": "Genre",
+    "desc": "- spezielle Puzzleform bei der gitterartig angeordnete Elemente so bewegt werden müssen, dass 3 gleiche nebeneinander sind, um Effekte zu erzielen"
+  },
+  "Aufbau": {
+    "type": "Genre",
+    "desc": "- Aufbaustrategie ist ein durch Anno 1602 begründetes Subgenre\n- der Fokus liegt dabei im namensgebenden Aufbau eigener Strukturen wie Städte, Inselkolonien, etc."
+  },
+  "Point & Click": {
+    "type": "Genre",
+    "desc": "- begründet durch das Adventure-Genre besteht die Besonderheit in der Steuerung, bei der oft mittels Maus eine Aktion aus einem Pool von Aktionen gewählt wird, um diese dann auf Objekte der Spielwelt anzuwenden"
+  },
+  "JRPG": {
+    "type": "Genre",
+    "desc": "- sogenannte JRPG's sind japanische Rollenspiele, die besonders durch ihre Rundenkämpfe und stark anwachsende Handlungsbögen auffallen, die oft in viel größeren Maßstäben enden, als sie begonnen haben"
+  },
+  "Hack & Slay": {
+    "type": "Genre",
+    "desc": "- wie der Name schon sagt geht es ums Hacken und Schlagen\n- typisch sind hier schwertschwingende Ritter und mächtiger Zauberer, die sich oft durch Horden von Gegnern schlachten"
+  },
+  "Dungeoncrawler": {
+    "type": "Genre",
+    "desc": "- eine besondere Gattung der Rollenspiele bei der man einen oder mehrere Charakter durch ein gewaltiges Labyrinth mit Rätseln, Monstern und Fallen führt"
+  },
+  "Towerdefense": {
+    "type": "Genre",
+    "desc": "- besonderes Subgenre der Strategie mit dem Hauptaugenmerk auf der Verteidigung eines bestimmten Gebietes durch den Bau von Strukturen"
+  },
+  "Roguelike": {
+    "type": "Genre",
+    "desc": "- im Vordergrund steht der mehrmalige Antritt gleicher Abschnitte, wobei nach jedem neuen Versuch ein kleiner Fortschritt erzielt wird"
+  },
+  "PC": {
+    "type": "Plattform",
+    "desc": "Der Computer unterscheidet sich von den Konsolen hauptsächlich darin, dass er ebenso für allgemeine Zwecke bzw. auch mit Arbeitssoftware betrieben werden kann. Dieser Umstand hat allerdings heutzutage sehr an Gültigkeit verloren, da mittlerweile auch viele Konsolen oder Handhelds (insbesondere Smartphones) viele Programme und Werkzeuge besitzen, die früher dem PC eigen waren."
+  },
+  "NES": {
+    "type": "Plattform",
+    "desc": "Erste Konsole von Nintendo."
+  },
+  "Xbox360": {
+    "type": "Plattform",
+    "desc": "Konsole von Microsoft nach der Xbox."
+  },
+  "Switch": {
+    "type": "Plattform",
+    "desc": "Nintendos erste Fusion aus Konsole und Handheld."
+  },
+  "Gameboy": {
+    "type": "Plattform",
+    "desc": "Erste mobile Konsole von Nintendo."
+  },
+  "Wii": {
+    "type": "Plattform",
+    "desc": "Konsole von Nintendo mit fortschrittlichen Bewegungscontrollern."
+  },
+  "Gamecube": {
+    "type": "Plattform",
+    "desc": "Nintendos Nachfolger-Konsole zum Super Nintendo."
+  },
+  "Gameboy-Color": {
+    "type": "Plattform",
+    "desc": "Erste mobile Konsole von Nintendo mit farbigem Display."
+  },
+  "Gameboy-Advance": {
+    "type": "Plattform",
+    "desc": "Der Nachfolger-Handheld zum Gameboy-Color."
+  },
+  "Android": {
+    "type": "Plattform",
+    "desc": "Freies, auf Linux basierendes Betriebssystem speziell auf Mobilgeräte zugeschnitten"
+  },
+  "Maus": {
+    "type": "Steuerung",
+    "desc": "- Spiel lässt sich mit einer Maus vollständig bedienen\n- 2-dimensionale Bewegung auf einer Oberfläche\n- meist mehrere zusätzliche Buttons und Räder zum scrollen\n- moderne Mäuse können oft sogar zusätzliche Dimensionen abdecken"
+  },
+  "Tastatur": {
+    "type": "Steuerung",
+    "desc": "- Spiel lässt sich mit einer Tastatur vollständig bedienen\n- viele verschiedene, beschriftete Tasten, die oft auch in Kombination wirken"
+  },
+  "Maus & Tastatur": {
+    "type": "Steuerung",
+    "desc": "- Spiel lässt sich mit Maus und Tastatur vollständig bedienen\n- vereint die Vorteile der zwei wichtigen PC-Eingabemedien\n- Standard im Bereich der PC-Spiele"
+  },
+  "Joystick": {
+    "type": "Steuerung",
+    "desc": "- Spiel lässt sich mit einem Joystick vollständig bedienen\n- mehrere Achsen erlauben multidimensionale Eingaben, wie sie bspw. in einer Flugsimulation benötigt werden"
+  },
+  "Gamepad": {
+    "type": "Steuerung",
+    "desc": "- Spiel lässt sich mit einem Gamepad vollständig bedienen\n- bedient mit unterschiedlichsten Eingaben, wie einfachen Knöpfen und Joysticks bis hinzu Bewegungssensoren, viele Anwendungsmöglichkeiten\n- besonders durch Konsolen populär geworden sind sie heute oft Teil von PCs"
+  },
+  "Lenkrad": {
+    "type": "Steuerung",
+    "desc": "- Spiel lässt sich mit einem GameController vollständig bedienen\n- simuliert die Verwendung eines Lenkrades aus dem Straßenverkehr"
+  },
+  "Touch": {
+    "type": "Steuerung",
+    "desc": "- Spiel lässt sich mit einem oder mehreren Fingern bzw. Stiften bedienen\n- verschiedene Gesten können dabei unterschiedlich Aktionen triggern"
+  },
+  "Sport": {
+    "type": "Thema",
+    "desc": "- Sportarten wie Fußball, Golf oder Formel-1 werden thematisiert"
+  },
+  "Horror": {
+    "type": "Thema",
+    "desc": "- Fokus auf gruseligen und/oder ekelhaften Erlebnissen"
+  },
+  "Gore": {
+    "type": "Thema",
+    "desc": "- Fokus auf sehr brutalen oder sogar übertriebenen Darstellungen"
+  },
+  "Humor": {
+    "type": "Thema",
+    "desc": "- humoristische Spiele stellen Sachverhalte oft übertrieben und überzeichnet dar\n- Fokus auf Witze, Sarkasmus, Ironie und Slapstick"
+  },
+  "Metagame": {
+    "type": "Thema",
+    "desc": "- ein Metagame verzerrt die Grenze zwischen Spiel und Spieler indem es bspw. dem Spieler vorgaukelt mit ihm zu kommunizieren\n- der Spieler ist also selbst Teil des Spiels"
+  },
+  "Giger": {
+    "type": "Thema",
+    "desc": "- eine besondere Art der grafischen Darstellung nach der Art von H.R.Giger"
+  },
+  "Wikinger": {
+    "type": "Welt",
+    "desc": "- Welt der Wikinger der nordischen Länder und Mythologien um Odin, etc."
+  },
+  "Wilder Westen": {
+    "type": "Welt",
+    "desc": "- Welt des wilden Westens mit Cowboys, Indianern und Eisenbahnen"
+  },
+  "Steinzeit": {
+    "type": "Welt",
+    "desc": "- Welt in Anlehung an die weite Vergangenheit der Menschheit"
+  },
+  "Gegenwart": {
+    "type": "Welt",
+    "desc": "- eine möglichst getreue Darstellung der Gegenwart"
+  },
+  "Scifi": {
+    "type": "Welt",
+    "desc": "- Welt in einer andersartigen Gegenwart/Zukunft mit meistens vielen technischen Besonderheiten oder Fortschritten"
+  },
+  "Mittelalter": {
+    "type": "Welt",
+    "desc": "- Welt auf der Erde zu einer Zeit des Mittelalters (um das 14. Jahrhundert)"
+  },
+  "Steampunk": {
+    "type": "Welt",
+    "desc": "- Welt mit einem Mix dem viktorianischen Zeitalter und fortschrittlicherer Technologie\n- meist in einem sehr ruppigen und dreckigen Setting"
+  },
+  "Cyberpunk": {
+    "type": "Welt",
+    "desc": "- ähnlich dem Steampunk beschreibt es eine dreckige, ruppige Welt, allerdings in einem zukünftigen Szenario\n- Neonlampen und Implantate sind nur wenige der vielen Highlights dieser Welt"
+  },
+  "Kolonialzeit": {
+    "type": "Welt",
+    "desc": "- Vergangenheit mit Fokus auf den Streit vieler Mächte um die Vorherrschaft in neu entdeckten Ländern\n- oft in Karibik oder afrikanischen Kolonien angesiedelt"
+  },
+  "Comic": {
+    "type": "Welt",
+    "desc": "- Hauptthema ist eine Welt aus eine Comic-Universum wie bspw. dem DC- oder dem Marvel-Universum"
+  },
+  "Weltkrieg": {
+    "type": "Welt",
+    "desc": "- die Welt ist in oder um einen der beiden historischen Weltkriege angesiedelt"
+  },
+  "Fantasy": {
+    "type": "Welt",
+    "desc": "- das Geschehen spielt in einer frei erfundenen Welt voller fantastischer Dinge und Lebewesen"
+  },
+  "Post-Apokalypse": {
+    "type": "Welt",
+    "desc": "- meist die Gegenwart nach einem apokalyptischen Ereignis bei dem Großteile der Zivilisation ausgelöscht wurden\n- oft begleitet durch Mutanten, atomare Spuren und improvisierte Gegenstände"
+  },
+  "LEGO": {
+    "type": "Welt",
+    "desc": "- die Welt ist im Lego-Universum angesiedelt"
+  },
+  "Top-Down": {
+    "type": "Perspektive",
+    "desc": "- Das Geschehen wird aus einer erhöhten Position verfolgt"
+  },
+  "Ego": {
+    "type": "Perspektive",
+    "desc": "- Das Geschehen wird aus der direkten Sicht der Entität verfolgt"
+  },
+  "Third-Person": {
+    "type": "Perspektive",
+    "desc": "- Das Geschehen wird über die Schulter der Entität verfolgt"
+  },
+  "Isometrisch": {
+    "type": "Perspektive",
+    "desc": "- Das Geschehen wird aus einer erhöhten, seitlichen Position verfolgt"
+  },
+  "Side-Scroller": {
+    "type": "Perspektive",
+    "desc": "- Das Geschehen wird von der Seite betrachtet und unterliegt somit oft der Beschränkung auf eine 2-dimensionale Bewegung"
+  },
+  "Szenerie": {
+    "type": "Perspektive",
+    "desc": "- das Spielgeschehen läuft in einzelnen Szenen ab, die der Spieler oft aus einer statischen Kameraperspektive sieht und mit der er interagieren kann\n- typisch für Point & Click Adventure"
+  },
+  "Rundenbasiert": {
+    "type": "Zeitlicher Ablauf",
+    "desc": "- Ablauf in festen Runden, die unbegrenzte Zeit zum Taktieren/Handeln bieten"
+  },
+  "Echtzeit": {
+    "type": "Zeitlicher Ablauf",
+    "desc": "- Ablauf in kontinuierlich ablaufender Zeit ohne die Möglichkeit diese künstlich zu beeinflussen"
+  },
+  "Pausierbar": {
+    "type": "Zeitlicher Ablauf",
+    "desc": "- Spielverlauf lässt sich künstlich pausieren, um Zeit zum Taktieren zu haben"
+  },
+  "Voxelbasiert": {
+    "type": "Technik",
+    "desc": "- Umgebung oder Objekte bestehen aus einer Vielzahl von Einzelteilen, meist auch Blöcken"
+  },
+  "VR": {
+    "type": "Technik",
+    "desc": "- Möglichkeit das Spiel mit Hilfe einer Virtual-Reality-Brille zu erleben"
+  },
+  "Sandbox": {
+    "type": "Technik",
+    "desc": "- das Spiel bietet enorme Freiheiten insbesondere auch die Welt zu gestalten\n- Crafting ist oft Bestandteil dieser Spiele"
+  },
+  "Crafting": {
+    "type": "Technik",
+    "desc": "- das Spiel bietet enorme Freiheiten insbesondere auch die Welt zu gestalten"
+  },
+  "Photogrammetrie": {
+    "type": "Technik",
+    "desc": "- Teile oder sogar das ganze Spiel bestehen aus Assets, die aus der Realität mittels Photogrammetrie abgescannt wurden"
+  },
+  "Pixelart": {
+    "type": "Technik",
+    "desc": "- Assets sind in einem künstlerisch ansprechenden grob-pixeligen Stil gestaltet"
+  },
+  "2,5D": {
+    "type": "Technik",
+    "desc": "- ein Side-Scroller in einer 3-dimensionalen Umgebung"
+  },
+  "Openworld": {
+    "type": "Technik",
+    "desc": "- bei einer Openworld steht ein sehr großer Teil der Spielwelt zur freien Erkundung offen\n- einzige Beschränkung können durch hohe Schwierigkeitsgrade oder Storyfortschritte erfolge"
+  },
+  "Addon": {
+    "type": "Produktart",
+    "desc": "- Zusatzspiel mit vielen neuen Inhalten, das oft auch eigenständig ohne das Hauptspiel gespielt werden kann"
+  },
+  "DLC": {
+    "type": "Produktart",
+    "desc": "- Herunterladbarer zusätzlicher Inhalt, der ohne Hauptspiel nicht funktioniert\n- bietet oft nur kleinere neue Inhalte"
+  },
+  "Coop": {
+    "type": "Technik",
+    "desc": "- das Spiel wird kooperativ mit anderen Spielern zusammen gespielt"
+  }
+}
