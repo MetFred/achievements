@@ -347,6 +347,12 @@
     "tags": ["Ego", "Scifi", "Cyberpunk"],
     "controls": ["Maus & Tastatur"]
   },
+  "Deus Ex: Mankind Devided": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi", "Cyberpunk"],
+    "controls": ["Maus & Tastatur"]
+  },
   "DEX": {
     "genres": ["Rollenspiel"],
     "platforms": ["PC"],
