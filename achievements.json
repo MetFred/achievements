@@ -443,6 +443,12 @@
     "tags": ["Gore", "Ego", "Gegenwart", "Zombies", "Horror", "Parkour"],
     "controls": ["Maus & Tastatur"]
   },
+  "Dying Light - The Following": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Ego", "Gegenwart", "Zombies", "Horror", "Parkour", "DLC"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Edna & Harvey: Harveys neue Augen": {
     "genres": ["Point & Click"],
     "platforms": ["PC"],
