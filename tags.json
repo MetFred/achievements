@@ -159,6 +159,10 @@
     "type": "Thema",
     "desc": "- Fokus auf gruseligen und/oder ekelhaften Erlebnissen"
   },
+  "Zombies": {
+    "type": "Thema",
+    "desc": "- wandelnde Leichen bilden das Hauptaugenmerk dieses Themas"
+  },
   "Gore": {
     "type": "Thema",
     "desc": "- Fokus auf sehr brutalen oder sogar übertriebenen Darstellungen"
@@ -290,6 +294,10 @@
   "Pixelart": {
     "type": "Technik",
     "desc": "- Assets sind in einem künstlerisch ansprechenden grob-pixeligen Stil gestaltet"
+  },
+  "Parkour": {
+    "type": "Technik",
+    "desc": "- die Fortbewegung ist sehr komplex und bietet neben Laufen auch Klettern, Springen und Hangeln"
   },
   "2,5D": {
     "type": "Technik",

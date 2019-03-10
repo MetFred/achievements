@@ -68,7 +68,7 @@
   "Assassins Creed IV - Black Flag": {
     "genres": ["Adventure"],
     "platforms": ["PC"],
-    "tags": ["Scifi", "Kolonialzeit", "Third-Person", "Openworld"],
+    "tags": ["Scifi", "Kolonialzeit", "Third-Person", "Openworld", "Parkour"],
     "controls": ["Gamepad"]
   },
   "Axiom Verge": {
@@ -308,7 +308,7 @@
   "Dead Island": {
     "genres": ["Shooter", "Rollenspiel"],
     "platforms": ["PC"],
-    "tags": ["Gore", "Horror", "Gegenwart", "Ego"],
+    "tags": ["Gore", "Horror", "Gegenwart", "Ego", "Zombies"],
     "controls": ["Maus & Tastatur"]
   },
   "Dead Space": {
@@ -435,6 +435,12 @@
     "genres": ["Shooter"],
     "platforms": ["PC"],
     "tags": ["Gore", "Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Dying Light": {
+    "genres": ["Shooter", "Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Gore", "Ego", "Gegenwart", "Zombies", "Horror", "Parkour"],
     "controls": ["Maus & Tastatur"]
   },
   "Edna & Harvey: Harveys neue Augen": {
@@ -920,7 +926,7 @@
   "Rise of the Tomb Raider": {
     "genres": ["Shooter", "Rollenspiel"],
     "platforms": ["PC"],
-    "tags": ["Third-Person", "Gegenwart"],
+    "tags": ["Third-Person", "Gegenwart", "Parkour"],
     "controls": ["Maus & Tastatur"]
   },
   "Risen": {
@@ -980,7 +986,7 @@
   "Shadow of the Tomb Raider": {
     "genres": ["Shooter", "Rollenspiel"],
     "platforms": ["PC"],
-    "tags": ["Third-Person", "Gegenwart"],
+    "tags": ["Third-Person", "Gegenwart", "Parkour"],
     "controls": ["Maus & Tastatur"]
   },
   "Shadow Tactics - Blades of the Shogun": {
@@ -1292,7 +1298,7 @@
   "Titanfall 2": {
     "genres": ["Shooter"],
     "platforms": ["PC"],
-    "tags": ["Scifi", "Ego"],
+    "tags": ["Scifi", "Ego", "Parkour"],
     "controls": ["Maus & Tastatur"]
   },
   "Titan Souls": {
@@ -1310,7 +1316,7 @@
   "Tomb Raider": {
     "genres": ["Adventure", "Shooter"],
     "platforms": ["PC"],
-    "tags": ["Third-Person", "Gegenwart"],
+    "tags": ["Third-Person", "Gegenwart", "Parkour"],
     "controls": ["Maus & Tastatur"]
   },
   "Tormentum - Dark Sorrow": {
