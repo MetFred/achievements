@@ -827,6 +827,12 @@
     "tags": ["Side-Scroller"],
     "controls": ["Gamepad"]
   },
+  "Nioh": {
+    "genres": ["Soulslike"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Fantasy", "Fernöstlich"],
+    "controls": ["Gamepad"]
+  },
   "Ori and the blind forest": {
     "genres": ["Metroidvania"],
     "platforms": ["PC"],
@@ -998,7 +1004,7 @@
   "Shadow Tactics - Blades of the Shogun": {
     "genres": ["Strategie"],
     "platforms": ["PC"],
-    "tags": ["Echtzeit", "Top-Down"],
+    "tags": ["Echtzeit", "Top-Down", "Fernöstlich"],
     "controls": ["Gamepad"]
   },
   "Shadow Warrior": {
@@ -1167,6 +1173,12 @@
     "genres": ["Shooter"],
     "platforms": ["PC"],
     "tags": ["Ego", "Scifi", "VR", "Metagame"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Supraland": {
+    "genres": ["Adventure", "Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Fantasy"],
     "controls": ["Maus & Tastatur"]
   },
   "System Shock 2": {
