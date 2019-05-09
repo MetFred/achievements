@@ -195,6 +195,10 @@
     "type": "Welt",
     "desc": "- eine möglichst getreue Darstellung der Gegenwart"
   },
+  "Fernöstlich": {
+    "type": "Welt",
+    "desc": "- das Setting ist im fernen Osten angesiedelt (Chine, Japan, ...)"
+  },
   "Scifi": {
     "type": "Welt",
     "desc": "- Welt in einer andersartigen Gegenwart/Zukunft mit meistens vielen technischen Besonderheiten oder Fortschritten"
