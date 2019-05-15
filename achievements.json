@@ -782,6 +782,12 @@
   "Metro 2033": {
     "genres": ["Shooter", "Adventure"],
     "platforms": ["PC"],
+    "tags": ["Ego", "Post-Apokalypse", "Horror"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Metro Exodus": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
     "tags": ["Ego", "Post-Apokalypse"],
     "controls": ["Maus & Tastatur"]
   },
