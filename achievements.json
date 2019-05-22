@@ -563,6 +563,12 @@
     "tags": ["Fantasy", "Szenerie", "Humor"],
     "controls": ["Maus"]
   },
+  "Gorky 17": {
+    "genres": ["Strategie"],
+    "platforms": ["PC"],
+    "tags": ["Rundenbasiert", "Szenerie", "Horror", "Gegenwart"],
+    "controls": ["Maus"]
+  },
   "Gothic": {
     "genres": ["Rollenspiel"],
     "platforms": ["PC"],
