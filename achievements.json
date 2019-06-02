@@ -461,6 +461,12 @@
     "tags": ["Third-Person", "Scifi", "Openworld"],
     "controls": ["Gamepad"]
   },
+  "Everspace": {
+    "genres": ["Roguelike", "Simulation"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Sci-Fi"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Evoland": {
     "genres": ["JRPG", "Adventure", "Rollenspiel"],
     "platforms": ["PC"],
