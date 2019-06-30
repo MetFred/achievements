@@ -77,6 +77,12 @@
     "tags": ["Side-Scroller", "Scifi"],
     "controls": ["Gamepad"]
   },
+  "Baldurs Gate": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Isometrisch", "Mittelalter"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Batman: Arkham Asylum": {
     "genres": ["Metroidvania"],
     "platforms": ["PC"],
