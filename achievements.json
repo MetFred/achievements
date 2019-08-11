@@ -677,6 +677,12 @@
     "tags": ["Side-Scroller"],
     "controls": ["Gamepad"]
   },
+  "Horizon - Zero Dawn": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PS4"],
+    "tags": ["Third-Person", "Post-Apokalypse", "Scifi", "Openworld"],
+    "controls": ["Gamepad"]
+  },
   "Hotline Miami": {
     "genres": ["Shooter", "Adventure"],
     "platforms": ["PC"],

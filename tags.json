@@ -111,6 +111,10 @@
     "type": "Plattform",
     "desc": "Nintendos Nachfolger-Konsole zum Super Nintendo."
   },
+  "PS4": {
+    "type": "Plattform",
+    "desc": "Die vierte Generation der Sony Playstation"
+  },
   "Gameboy-Color": {
     "type": "Plattform",
     "desc": "Erste mobile Konsole von Nintendo mit farbigem Display."
