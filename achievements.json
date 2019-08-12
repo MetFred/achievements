@@ -677,10 +677,16 @@
     "tags": ["Side-Scroller"],
     "controls": ["Gamepad"]
   },
-  "Horizon - Zero Dawn": {
+  "Horizon Zero Dawn": {
     "genres": ["Rollenspiel"],
     "platforms": ["PS4"],
     "tags": ["Third-Person", "Post-Apokalypse", "Scifi", "Openworld"],
+    "controls": ["Gamepad"]
+  },
+  "Horizon Zero Dawn - Frozen Wilds": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PS4"],
+    "tags": ["Third-Person", "Post-Apokalypse", "Scifi", "Openworld", "DLC"],
     "controls": ["Gamepad"]
   },
   "Hotline Miami": {
