@@ -1415,6 +1415,12 @@
     "tags": ["Side-Scroller", "Post-Apokalypse"],
     "controls": ["Gamepad"]
   },
+  "Uncharted 4: A Thief's End": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PS4"],
+    "tags": ["Third-Person", "Gegenwart", "Parkour"],
+    "controls": ["Gamepad"]
+  },
   "Unepic": {
     "genres": ["Rollenspiel"],
     "platforms": ["PC"],
