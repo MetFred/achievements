@@ -7,6 +7,10 @@
     "type": "Genre",
     "desc": "- Selbstgeführter Einsatz von Fernkampfwaffen"
   },
+  "Kartenspiel": {
+    "type": "Genre",
+    "desc": "- das Spiel basiert auf dem Einsatz von Spielkarten oder einem ähnlichen System"
+  },
   "Adventure": {
     "type": "Genre",
     "desc": "- Geschichtlicher Rahmen stellt zu lösende Rätsel\n- Lösung mittels gefundener Gegenstände oder Gespräche"

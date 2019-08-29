@@ -1079,6 +1079,12 @@
     "tags": ["Szenerie", "Fantasy", "Humor"],
     "controls": ["Maus"]
   },
+  "Slay the Spire": {
+    "genres": ["Strategie", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Fantasy", "Humor", "Kartenspiel"],
+    "controls": ["Maus"]
+  },
   "Sniper Elite V2": {
     "genres": ["Shooter"],
     "platforms": ["PC"],
