@@ -887,6 +887,12 @@
     "tags": ["Third-Person", "Mittelalter", "Fantasy"],
     "controls": ["Gamepad"]
   },
+  "Owlboy": {
+    "genres": ["Jump & Run", "Adventure"],
+    "platforms": ["Switch"],
+    "tags": ["Side-Scroller", "Fantasy", "Pixelart"],
+    "controls": ["Gamepad"]
+  },
   "Paper Mario": {
     "genres": ["JRPG"],
     "platforms": ["Gamecube"],
