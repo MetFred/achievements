@@ -1187,6 +1187,12 @@
     "tags": ["Side-Scroller", "Post-Apokalypse", "Rundenbasiert"],
     "controls": ["Gamepad"]
   },
+  "SteamWorld Quest: Hand of Gilgamech": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["Switch"],
+    "tags": ["Side-Scroller", "Mittelalter", "Fantasy"],
+    "controls": ["Gamepad"]
+  },
   "Styx: Master of Shadows": {
     "genres": ["Adventure", "Rollenspiel", "Stealth"],
     "platforms": ["PC"],
