@@ -155,6 +155,12 @@
     "tags": ["Gore", "Ego", "Humor"],
     "controls": ["Maus & Tastatur"]
   },
+  "Bloodstained - Ritual of the night": {
+    "genres": ["Metroidvania"],
+    "platforms": ["Switch"],
+    "tags": ["Side-Scroller", "Fantasy", "Horror"],
+    "controls": ["Gamepad"]
+  },
   "Borderlands": {
     "genres": ["Shooter", "Rollenspiel"],
     "platforms": ["PC"],
