@@ -1481,6 +1481,24 @@
     "tags": ["Scifi", "Third-Person", "Openworld"],
     "controls": ["Maus & Tastatur"]
   },
+  "We were here": {
+    "genres": ["Adventure", "Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Coop", "Ego", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "We were here too": {
+    "genres": ["Adventure", "Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Coop", "Ego", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "We were here together": {
+    "genres": ["Adventure", "Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Coop", "Ego", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
   "What remains of Edith Finch": {
     "genres": ["Adventure"],
     "platforms": ["PC"],
