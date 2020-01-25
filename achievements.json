@@ -1367,6 +1367,12 @@
     "tags": ["Ego", "Scifi", "Openworld"],
     "controls": ["Maus & Tastatur"]
   },
+  "Tick Tock: A tale for two": {
+    "genres": ["Puzzler"],
+    "platforms": ["PC"],
+    "tags": ["Szenerie", "Gegenwart"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Tiny & Big: Grandpa's Leftovers": {
     "genres": ["Adventure", "Jump & Run"],
     "platforms": ["PC"],
