@@ -869,6 +869,12 @@
     "tags": ["Side-Scroller"],
     "controls": ["Gamepad"]
   },
+  "NieR: Automata": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Scifi", "Post-Apokalypse"],
+    "controls": ["Gamepad"]
+  },
   "Nioh": {
     "genres": ["Soulslike"],
     "platforms": ["PC"],
