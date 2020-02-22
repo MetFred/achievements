@@ -659,11 +659,17 @@
     "tags": ["Ego", "Scifi"],
     "controls": ["Maus & Tastatur"]
   },
+  "Halo: Reach": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Halo 3": {
     "genres": ["Shooter"],
     "platforms": ["Xbox360"],
     "tags": ["Ego", "Scifi"],
-    "controls": ["Maus & Tastatur"]
+    "controls": ["Gamepad"]
   },
   "Halo: Spartan Assault": {
     "genres": ["Shooter"],
