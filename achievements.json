@@ -893,6 +893,12 @@
     "tags": ["Side-Scroller"],
     "controls": ["Gamepad"]
   },
+  "Ori and the will of the wisps": {
+    "genres": ["Metroidvania"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller"],
+    "controls": ["Gamepad"]
+  },
   "Outlaws": {
     "genres": ["Shooter"],
     "platforms": ["PC"],
