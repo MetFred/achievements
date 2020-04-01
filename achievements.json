@@ -1559,6 +1559,12 @@
     "tags": ["Ego", "Gore", "Scifi"],
     "controls": ["Maus & Tastatur"]
   },
+  "World War Z": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gore", "Gegenwart", "Apokalypse", "Coop"],
+    "controls": ["Maus & Tastatur"]
+  },
   "X-COM - Enemy Unknown": {
     "genres": ["Strategie"],
     "platforms": ["PC"],
