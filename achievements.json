@@ -887,6 +887,12 @@
     "tags": ["Third-Person", "Fantasy", "Fernöstlich"],
     "controls": ["Gamepad"]
   },
+  "Oni": {
+    "genres": ["Adventure", "Beat'em up"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Ori and the blind forest": {
     "genres": ["Metroidvania"],
     "platforms": ["PC"],
