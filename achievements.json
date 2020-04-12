@@ -653,7 +653,13 @@
     "tags": ["Ego", "Scifi"],
     "controls": ["Maus & Tastatur"]
   },
-  "Halo": {
+  "Halo: Combat Evolved": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
+  "Halo: Combat Evolved Anniversary": {
     "genres": ["Shooter"],
     "platforms": ["PC"],
     "tags": ["Ego", "Scifi"],
