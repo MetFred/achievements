@@ -545,6 +545,12 @@
     "tags": ["Gegenwart", "Ego", "Openworld"],
     "controls": ["Maus & Tastatur"]
   },
+  "Far: Lone sails": {
+    "genres": ["Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Post-Apokalypse", "Side-Scroller", "Openworld"],
+    "controls": ["Gamepad"]
+  },
   "Final Fantasy IX": {
     "genres": ["JRPG"],
     "platforms": ["PC"],
