@@ -407,6 +407,12 @@
     "tags": ["Ego", "Steampunk"],
     "controls": ["Maus & Tastatur"]
   },
+  "Divinity Original Sin": {
+    "genres": ["Rollenspiel"],
+    "platforms": ["PC"],
+    "tags": ["Isometrisch", "Fantasy"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Doctor Who: Eternity Clock": {
     "genres": ["Adventure"],
     "platforms": ["PC"],
