@@ -1451,6 +1451,12 @@
     "tags": ["Szenerie", "Horror", "Fantasy", "Giger"],
     "controls": ["Maus"]
   },
+  "Trespasser": {
+    "genres": ["Shooter", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Gegenwart", "Dinosaurier"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Trine": {
     "genres": ["Puzzler", "Adventure", "Multiplayer"],
     "platforms": ["PC"],
@@ -1472,7 +1478,7 @@
   "Turok - Dinosaur Hunter": {
     "genres": ["Shooter"],
     "platforms": ["PC"],
-    "tags": ["Ego", "Scifi"],
+    "tags": ["Ego", "Scifi", "Dinosaurier"],
     "controls": ["Maus & Tastatur"]
   },
   "Two Worlds": {

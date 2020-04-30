@@ -187,6 +187,10 @@
     "type": "Thema",
     "desc": "- eine besondere Art der grafischen Darstellung nach der Art von H.R.Giger"
   },
+  "Dinosaurier": {
+    "type": "Thema",
+    "desc": "- Dinosaurier sind ein wichtiger Bestandteil\n- bspw. Jurrasic Park, Turok, etc."
+  },
   "Wikinger": {
     "type": "Welt",
     "desc": "- Welt der Wikinger der nordischen Länder und Mythologien um Odin, etc."
