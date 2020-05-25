@@ -821,6 +821,12 @@
     "tags": ["Ego", "Scifi"],
     "controls": ["Maus & Tastatur"]
   },
+  "Maneater": {
+    "genres": ["Adventure", "Simulation"],
+    "platforms": ["PC"],
+    "tags": ["Third-Person", "Gegenwart", "Gore"],
+    "controls": ["Gamepad"]
+  },
   "Mass Effect": {
     "genres": ["Rollenspiel"],
     "platforms": ["PC"],
