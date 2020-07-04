@@ -143,6 +143,12 @@
     "tags": ["Horror", "Scifi", "Ego"],
     "controls": ["Maus & Tastatur"]
   },
+  "Black Mesa": {
+    "genres": ["Shooter"],
+    "platforms": ["PC"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Black Sails - Das Geisterschiff": {
     "genres": ["Point & Click"],
     "platforms": ["PC"],
