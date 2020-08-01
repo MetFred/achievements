@@ -203,6 +203,12 @@
     "tags": ["Third-Person", "Fantasy", "Humor", "Openworld"],
     "controls": ["Maus & Tastatur"]
   },
+  "Carrion": {
+    "genres": ["Metroidvania", "Adventure"],
+    "platforms": ["PC"],
+    "tags": ["Side-Scroller", "Scifi", "Horror"],
+    "controls": ["Maus & Tastatur"]
+  },
   "Castle in the Darkness": {
     "genres": ["Metroidvania"],
     "platforms": ["PC"],
@@ -688,6 +694,12 @@
     "platforms": ["PC"],
     "tags": ["Ego", "Scifi"],
     "controls": ["Maus & Tastatur"]
+  },
+  "Halo 2": {
+    "genres": ["Shooter"],
+    "platforms": ["Xbox360"],
+    "tags": ["Ego", "Scifi"],
+    "controls": ["Gamepad"]
   },
   "Halo 3": {
     "genres": ["Shooter"],
